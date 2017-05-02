@@ -14,5 +14,6 @@
 
 ## @TODO
 
- [ ] Option to (backup then) delete existing files for selected target files
- [ ] Ability to link all files from a synced folder to a target folder without making the target folder itself a link
+ - [ ] Option to (backup then) delete existing files for selected target files
+ - [ ] Ability to link all files from a synced folder to a target folder without making the target folder itself a link
+ - [ ] Add CLI help to explain the stupid coloured ascii art which indicates target/source state
